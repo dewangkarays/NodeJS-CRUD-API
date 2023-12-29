@@ -1,0 +1,50 @@
+[
+  {
+    "id": "213976be-9157-4daa-992b-5b93f68540a6",
+    "nama": "Dewangkara Yoga Setyawan",
+    "email": "dewangkara@gmail.com",
+    "tanggal_lahir": "2003-05-22"
+  },
+  {
+    "id": "d70de7bc-9733-4535-a98a-05cfc04e38ba",
+    "nama": "Dimas Victo",
+    "email": "Dimas@gmail.com",
+    "tanggal_lahir": "2003-04-07"
+  },
+  {
+    "id": "9017c8f4-3406-474a-a528-bac9da1675d8",
+    "nama": "Marky Zucker",
+    "email": "marky@gmail.com",
+    "tanggal_lahir": "1985-08-22"
+  },
+  {
+    "id": "e2fec764-7a7b-46d6-96d6-de9d3a6dec6b",
+    "nama": "Ahmad Rizki",
+    "email": "ahmad.rizki@gmail.com",
+    "tanggal_lahir": "1995-12-10"
+  },
+  {
+    "id": "dd986a9e-b0f4-43d7-8499-784290efedbf",
+    "nama": "Ardhian Saputra",
+    "email": "ardhian@gmail.com",
+    "tanggal_lahir": "2002-09-14"
+  },
+  {
+    "id": "12a365f0-e6bf-4707-b07f-2381983833a9",
+    "nama": "Muhammad Aufa",
+    "email": "Aufa@gmail.com",
+    "tanggal_lahir": "2003-08-11"
+  },
+  {
+    "id": "99fcbdee-fef3-410c-8ed6-9b13e81e4669",
+    "nama": "Muhammad Affandi",
+    "email": "Fandi@gmail.com",
+    "tanggal_lahir": "2003-06-11"
+  },
+  {
+    "id": "c619977a-81e2-48d5-8d3d-da8073c72dad",
+    "nama": "Ihsan Harimurti",
+    "email": "Ihsan@gmail.com",
+    "tanggal_lahir": "2003-01-01"
+  }
+]

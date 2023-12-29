@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-crud-api",
+  "version": "1.0.0",
+  "description": "Case Study Backend Engineer Intern Hangry MSIB 6",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "nodemon"
+  },
+  "author": "Dewangkara Yoga Setyawan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
